@@ -1,6 +1,8 @@
 # Economy-Network-Graph
 Interactive graph of the key mechanisms of a free market economy
 
+![image](https://user-images.githubusercontent.com/104869111/175783520-0b8cf389-fe5b-45af-b577-98c5591edf02.png)
+
 # Network graph of a free market capitalist economy
 
 Countless mechanisms work behind the scenes to make our modern day free market capitalist economies flourish. Economists like to describe economies as complex systems in a mathematical sense.
