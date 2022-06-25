@@ -1,0 +1,58 @@
+,text,ntype
+0,Foreign nation gas supply,L
+1,OPEC oil production,L
+2,Services overheads,M
+3,Services prices,M
+4,Producer overheads,M
+5,Producer prices,M
+6,Rolling lockdowns overseas,F
+7,Overseas labour constraints,F
+8,Supply chain resilience,F
+9,Supply of imported goods available,F
+10,National infrastructure project funding,F
+11,Competition for labour,F
+12,Employee wages,M
+13,Inflation,M
+14,Oil prices,M
+15,Gas prices,M
+16,"Speculation on riskier assets, e.g. crypto",F
+17,Import costs,F
+18,Unemployment,M
+19,Private sector borrowing,M
+20,"Investments in property, plants and equipment",F
+21,Investments in staff,F
+22,Manufacturer output,M
+23,Service output,M
+24,Exchangeable value compared to other currencies (exchange rates),M
+25,Government pensions/welfare spending,F
+26,Government debt,M
+27,Government bond issuance,F
+28,Public service spending,F
+29,Stock market indices,M
+30,Pension pots,F
+31,IPO,F
+32,Investors sell shares at a steeper profit with higher capital gains,F
+33,Investor disposable cash,F
+34,Corporate profits,F
+35,Corporate stock buyback programmes,F
+36,Corporate bond issuance,F
+37,Central bank base rate (federal funds rate),L
+38,Bank Reserve Ratio,L
+39,Central Bank Discount Rate (typically higher than federal funds rate),L
+40,Lending to business and retail customers,F
+41,Assets recorded in bank balance sheet,F
+42,Deposits in balance sheet which offset created assets,F
+43,Strong lending activity may see bank end week below reserve requirement,F
+44,Weak lending activity may see bank end week above reserve requirement,F
+45,Effective federal funds rate at banks lend to each other,F
+46,Interest paid on consumer and business deposits,M
+47,Deposits from consumers and businesses,F
+48,House prices,M
+49,Expectations of significant inflation,F
+50,Valuation of existing government and corporate bonds on secondary market,F
+51,Interest on new government and corporate bonds,F
+52,Banks rate mortgage credit risks and package into mortgage backed securities,F
+53,Purchases of mortgage backed securities for fixed income,F
+54,Taxes raised by government,M
+55,"Central bank generates money, increasing money supply",L
+56,Central bank buys government bonds,L

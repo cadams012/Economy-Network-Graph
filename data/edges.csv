@@ -1,0 +1,100 @@
+,origin,destination,direction,title
+0,0,15,down,
+1,1,14,down,
+2,3,13,up,
+3,3,34,up,
+4,3,54,up,higher revenue from income taxes
+5,5,13,up,
+6,5,34,down,
+7,5,54,up,higher revenue from income taxes
+8,6,7,up,
+9,7,8,down,
+10,8,9,up,
+11,9,4,down,same demand chasing fewer goods
+12,10,4,down,improved infrastructure drives efficiency
+13,10,5,up,increased demand chases inelastic supply
+14,10,18,down,government directly hires jobseekers
+15,10,2,down,improved infrastructure drives efficiency
+16,10,26,up,debt based financing of infrastructure for future returns
+17,11,12,up,
+18,12,4,up,higher fixed costs
+19,12,16,up,more disposable income
+20,12,3,up,increased spending chasing same supply
+21,12,47,down,Less incentive to save
+22,12,40,up,
+23,12,54,up,higher revenue from income taxes
+24,13,50,down,
+25,13,51,up,investors demand higher returns to compensate for inflation risk
+26,14,2,up,same demand chasing lower supply
+27,14,4,up,same demand chasing lower supply
+28,14,17,up,higher demand from higher amount of currency chasing same supply
+29,15,2,up,same demand chasing lower supply
+30,15,4,up,same demand chasing lower supply
+31,17,15,up,higher demand from higher amount of currency chasing same supply
+32,17,2,up,
+33,17,4,up,
+34,18,11,down,fewer jobseekers in hiring pool
+35,18,25,up,higher employment means fewer welfare claimants
+36,19,20,up,
+37,19,21,up,
+38,20,2,down,increased efficiency drives lower unit cost
+39,20,4,down,increased efficiency drives lower unit cost
+40,20,22,up,
+41,20,23,up,
+42,22,24,up,increased overseas demand for national goods
+43,22,34,up,
+44,22,49,down,Exports become cheaper as currency is worth less
+45,23,24,up,increased overseas demand for national goods
+46,23,34,up,
+47,23,49,down,Increase in supply reduces inflation
+48,24,17,down,Imports of goods become more expensive
+49,25,3,up,increased demand chasing fixed supply
+50,25,26,up,debt based financing to help with cost of living
+51,27,26,up,inflow of money to treasury
+52,28,26,up,debt based financing of public services
+53,29,30,up,
+54,29,32,up,
+55,29,31,up,companies take advantage of large amount of liquidity
+56,32,33,up,
+57,32,54,up,higher revenue from capital gains on share sales
+58,33,31,up,liquidity is injected into new companies
+59,34,35,up,
+60,34,27,up,Corporations buys government bonds
+61,34,20,up,company profits invested for future growth
+62,34,21,down,company profits invested for future growth
+63,34,47,down,Less incentive to save
+64,35,33,up,
+65,35,29,up,buyback programmes volume of shares available for trading so increase price
+66,36,20,up,debt to fund future growth
+67,36,21,up,debt to fund future growth
+68,37,45,up,Banks negotiate based on the target federal funds rate set by central bank
+69,39,43,down,Banks may borrow directly from central bank if short of reserve requirement
+70,40,41,up,
+71,40,19,up,Businesses receive financing at lower interest rates
+72,40,48,up,"Mortgage seekers obtain loans at lower interest rates, increasing demand for rigid supply"
+73,40,52,up,
+74,42,43,down,
+75,42,44,up,
+76,43,45,neutral,
+77,43,40,up,
+78,43,38,neutral,Bank needs to increase deposits to meet reserve ratio
+79,44,38,neutral,Bank can lend excess deposits until down to reserve ratio
+80,45,44,neutral,
+81,46,48,down,Lower interest rates increase speculative investments in real estate
+82,47,3,up,Increased incentive to spend pushes increased demand
+83,47,16,down,Investors seek higher returns
+84,47,29,down,Investors seek higher returns
+85,48,3,down,Workers must put aside a higher proportion of income for mortgage
+86,48,54,up,higher revenue from stamp duty and capital gains
+87,49,24,down,Currency is worth less
+88,49,13,up,Expectations of inflation cause actual inflation
+89,49,50,down,
+90,50,30,up,Investment grade bonds are one of the key fixed income classes preferred by pension funds
+91,51,27,down,Government more reluctant to issue bonds
+92,52,53,up,
+93,54,26,down,higher tax revenue allows government to pay down debt
+94,54,25,up,higher tax revenue allows government to spend more
+95,54,28,up,higher tax revenue allows government to spend more
+96,54,10,up,higher tax revenue allows government to spend more
+97,55,56,up,Quantitative easing
+98,56,27,up,
